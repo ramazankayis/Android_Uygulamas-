@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/button31"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/x"
+    android:orientation="horizontal" >
+    
+    <ScrollView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         >
+         
+         <LinearLayout
+            android:layout_width="100dp"
+            android:layout_height="wrap_content" 
+            android:orientation="vertical" >
+         
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#ff00208d"
+            android:text="Bizans-Osmanlı Savaşları" />
+
+            <Button
+                android:id="@+id/button2"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffff208d"
+                android:text="Bulgar-Osmanlı Savaşları" />
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffff208d"
+                android:text="I. Kosova Muharebesi" />
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffff208d"
+                android:text="Niğbolu Muharebesi" />
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffff208d"
+                android:text="Ankara Muharebesi" />
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffff208d"
+                android:text="Fetret Devri" />
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffff208d"
+                android:text="Konstantin ve Frujin İsyanı" />
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffff208d"
+                android:text="Mostaganem Savaşı" />
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffff208d"
+                android:text="Osmanlı-Dürzü Savaşı" />
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffff208d"
+                android:text="1453" />
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffff208d"
+                android:text="1299" />
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffff208d"
+                android:text="1330" />
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffff208d"
+                android:text="1300" />
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffff208d"
+                android:text="1355" />
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffff208d"
+                android:text="1453" />
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffff208d"
+                android:text="1579" />
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffff208d"
+                android:text="1889" />
+
+            <Button
+                android:id="@+id/button32"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffff208d"
+                android:text="1911" />
+            
+            
+            </LinearLayout>
+            
+            
+            
+            </ScrollView>
+  <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_height="fill_parent"             
+            android:orientation="vertical" >
+
+     
+
+         <ImageView
+             android:id="@+id/imageView4"
+             android:layout_width="fill_parent"
+             android:layout_height="wrap_content"
+             android:layout_gravity="center_vertical"
+             android:scaleType="fitXY"
+             android:src="@drawable/s1" />
+
+          <ImageView
+              android:id="@+id/imageView5"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:layout_gravity="center_vertical"
+              android:scaleType="fitXY"
+              android:src="@drawable/ddd" />
+           <ImageView
+             android:id="@+id/imageView1"
+             android:layout_width="fill_parent"
+             android:layout_height="fill_parent"
+             android:layout_gravity="center_vertical"
+             android:scaleType="fitXY"
+             android:src="@drawable/kk" />
+      
+  </LinearLayout>
+   
+   
+    
+     </LinearLayout>
+     
+    

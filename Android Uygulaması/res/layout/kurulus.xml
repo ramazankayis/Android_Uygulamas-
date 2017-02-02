@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/button31"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/y"
+    android:orientation="vertical" >
+
+  
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="250dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="0dp"
+            android:adjustViewBounds="false"
+            android:background="@drawable/osmanlikurulus" />
+
+        <Button
+            android:id="@+id/button11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:text="Kisa bilgi" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:text=" "
+             
+            android:textColor="#01902f"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:text="Ders videosu" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/RelativeLayout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="fill_vertical"
+        android:orientation="vertical" >
+
+    </RelativeLayout>
+    <ScrollView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         >
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            
+            android:text="27 Receb 835 (30 Mart 1432) Pazar günü şafak vaktinde, devletin başkenti olan Edirne'de, II. Murat'ın dördüncü[8] oğlu olarak dünyaya geldi. Annesi Hüma Hatun, tarihçi Babinger ve yazar Lord Kinross’a göre gayrimüslim bir köledir. Yine Babinger'e göre, ölümünden sonra Acem efsanelerindeki cennetkuşu hümadan esinlenilerek Hüma Hatun olarak adlandırılmıştır.[9][10].
+
+Mehmed iki yaşına kadar Edirne'de kaldıktan sonra 1434’te sütninesi ve küçük ağabeyi Alâeddin Ali ile birlikte 14 yaşındaki büyük ağabeyi Ahmed’in Rum sancakbeyi olduğu Amasya'ya gönderildi. Burada ağabeyi Ahmed'in erken yaşta ölmesi üzerine Mehmed altı yaşında Rum sancakbeyi oldu (İnalcık'a göre şüpheli). Diğer ağabeyi Alâeddin Ali ise Manisa'da Saruhan sancakbeyi oldu. İki yıl sonra babaları II. Murat'ın talimatıyla iki kardeş yer değiştirdiler ve Mehmed Saruhan sancakbeyi oldu[11].
+
+Mehmed’in eğitimi için babası çeşitli hocalar görevlendirdi. Ancak zeki olduğu kadar hırçın bir çocuk olan Mehmed’in eğitilmesi kolay olmadı. Sonunda babası heybetli ve otoriter bir alim olan Molla Gürani’yi görevlendirdi. Anlatılana göre Murad, Gürani'ye bir değnek vermiş ve Mehmed itaatsizlik ederse kullanmasını söylemişti. Molla Gürani Mehmed’e, dersini dikkate almayan bir öğrencinin hocası tarafından dövülmesi ile ilgili edebi bir cümleyi inceletmiş, Mehmed durumun ciddiyetini kavrayarak eğitimine önem vermeye başlamıştır.
+
+Şehzade Mehmed'in medrese kökenli hocalarının yanı sıra bilgi edindiği Batılı şahsiyetler de bulunmaktaydı. Saruhan (Manisa) sarayında İtalyan hümanisti Anconalı Ciriaco ve saraydaki başka İtalyanlar onun Avrupa tarihi ile Antik Yunan filozoflarının hayatlarıyla ilgili kitaplar okumasına önayak olmuştu. Bu durum Şehzade Mehmed'e çok-kültürlülük kazandırmıştır. Topkapı Sarayı arşivinde bulunan II. Mehmed'in şehzadelik yıllarına ait olan karalama defterinde Latin harfleri, Arap harfleri, Roma büstlerini andıran insan çizimleri ve Osmanlı figürleri bulunmaktadır.[12][13] Ayrıca Fatih Sultan Mehmed'in Arapça ve Farsça'nın yanı sıra Latince, Yunanca ve İtalyanca bilmesi bu dönemdeki münasebetlerine dayandırılmaktadır.[14]27 Receb 835 (30 Mart 1432) Pazar günü şafak vaktinde, devletin başkenti olan Edirne'de, II. Murat'ın dördüncü[8] oğlu olarak dünyaya geldi. Annesi Hüma Hatun, tarihçi Babinger ve yazar Lord Kinross’a göre gayrimüslim bir köledir. Yine Babinger'e göre, ölümünden sonra Acem efsanelerindeki cennetkuşu hümadan esinlenilerek Hüma Hatun olarak adlandırılmıştır.[9][10].
+
+Mehmed iki yaşına kadar Edirne'de kaldıktan sonra 1434’te sütninesi ve küçük ağabeyi Alâeddin Ali ile birlikte 14 yaşındaki büyük ağabeyi Ahmed’in Rum sancakbeyi olduğu Amasya'ya gönderildi. Burada ağabeyi Ahmed'in erken yaşta ölmesi üzerine Mehmed altı yaşında Rum sancakbeyi oldu (İnalcık'a göre şüpheli). Diğer ağabeyi Alâeddin Ali ise Manisa'da Saruhan sancakbeyi oldu. İki yıl sonra babaları II. Murat'ın talimatıyla iki kardeş yer değiştirdiler ve Mehmed Saruhan sancakbeyi oldu[11].
+
+Mehmed’in eğitimi için babası çeşitli hocalar görevlendirdi. Ancak zeki olduğu kadar hırçın bir çocuk olan Mehmed’in eğitilmesi kolay olmadı. Sonunda babası heybetli ve otoriter bir alim olan Molla Gürani’yi görevlendirdi. Anlatılana göre Murad, Gürani'ye bir değnek vermiş ve Mehmed itaatsizlik ederse kullanmasını söylemişti. Molla Gürani Mehmed’e, dersini dikkate almayan bir öğrencinin hocası tarafından dövülmesi ile ilgili edebi bir cümleyi inceletmiş, Mehmed durumun ciddiyetini kavrayarak eğitimine önem vermeye başlamıştır.
+
+Şehzade Mehmed'in medrese kökenli hocalarının yanı sıra bilgi edindiği Batılı şahsiyetler de bulunmaktaydı. Saruhan (Manisa) sarayında İtalyan hümanisti Anconalı Ciriaco ve saraydaki başka İtalyanlar onun Avrupa tarihi ile Antik Yunan filozoflarının hayatlarıyla ilgili kitaplar okumasına önayak olmuştu. Bu durum Şehzade Mehmed'e çok-kültürlülük kazandırmıştır. Topkapı Sarayı arşivinde bulunan II. Mehmed'in şehzadelik yıllarına ait olan karalama defterinde Latin harfleri, Arap harfleri, Roma büstlerini andıran insan çizimleri ve Osmanlı figürleri bulunmaktadır.[12][13] Ayrıca Fatih Sultan Mehmed'in Arapça ve Farsça'nın yanı sıra Latince, Yunanca ve İtalyanca bilmesi bu dönemdeki münasebetlerine dayandırılmaktadır.[14]27 Receb 835 (30 Mart 1432) Pazar günü şafak vaktinde, devletin başkenti olan Edirne'de, II. Murat'ın dördüncü[8] oğlu olarak dünyaya geldi. Annesi Hüma Hatun, tarihçi Babinger ve yazar Lord Kinross’a göre gayrimüslim bir köledir. Yine Babinger'e göre, ölümünden sonra Acem efsanelerindeki cennetkuşu hümadan esinlenilerek Hüma Hatun olarak adlandırılmıştır.[9][10].
+
+Mehmed iki yaşına kadar Edirne'de kaldıktan sonra 1434’te sütninesi ve küçük ağabeyi Alâeddin Ali ile birlikte 14 yaşındaki büyük ağabeyi Ahmed’in Rum sancakbeyi olduğu Amasya'ya gönderildi. Burada ağabeyi Ahmed'in erken yaşta ölmesi üzerine Mehmed altı yaşında Rum sancakbeyi oldu (İnalcık'a göre şüpheli). Diğer ağabeyi Alâeddin Ali ise Manisa'da Saruhan sancakbeyi oldu. İki yıl sonra babaları II. Murat'ın talimatıyla iki kardeş yer değiştirdiler ve Mehmed Saruhan sancakbeyi oldu[11].
+
+Mehmed’in eğitimi için babası çeşitli hocalar görevlendirdi. Ancak zeki olduğu kadar hırçın bir çocuk olan Mehmed’in eğitilmesi kolay olmadı. Sonunda babası heybetli ve otoriter bir alim olan Molla Gürani’yi görevlendirdi. Anlatılana göre Murad, Gürani'ye bir değnek vermiş ve Mehmed itaatsizlik ederse kullanmasını söylemişti. Molla Gürani Mehmed’e, dersini dikkate almayan bir öğrencinin hocası tarafından dövülmesi ile ilgili edebi bir cümleyi inceletmiş, Mehmed durumun ciddiyetini kavrayarak eğitimine önem vermeye başlamıştır.
+
+Şehzade Mehmed'in medrese kökenli hocalarının yanı sıra bilgi edindiği Batılı şahsiyetler de bulunmaktaydı. Saruhan (Manisa) sarayında İtalyan hümanisti Anconalı Ciriaco ve saraydaki başka İtalyanlar onun Avrupa tarihi ile Antik Yunan filozoflarının hayatlarıyla ilgili kitaplar okumasına önayak olmuştu. Bu durum Şehzade Mehmed'e çok-kültürlülük kazandırmıştır. Topkapı Sarayı arşivinde bulunan II. Mehmed'in şehzadelik yıllarına ait olan karalama defterinde Latin harfleri, Arap harfleri, Roma büstlerini andıran insan çizimleri ve Osmanlı figürleri bulunmaktadır.[12][13] Ayrıca Fatih Sultan Mehmed'in Arapça ve Farsça'nın yanı sıra Latince, Yunanca ve İtalyanca bilmesi bu dönemdeki münasebetlerine dayandırılmaktadır.[14] "
+            android:textColor="#ffffff"
+            android:textSize="20sp" />
+        
+    </ScrollView>
+
+    
+    
+    
+    
+    
+    
+    
+</LinearLayout>

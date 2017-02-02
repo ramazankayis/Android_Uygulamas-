@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/x"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:textColor="#5ff"
+        android:textSize="25dp"
+        android:text=" İSTANBUL'UN FETHİ" />
+
+<RelativeLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+  	android:paddingTop="100dp"
+    android:background="@drawable/x"
+    android:orientation="vertical">
+    <VideoView
+        android:id="@+id/videoView1"       
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+         />
+     </RelativeLayout>
+</LinearLayout>
